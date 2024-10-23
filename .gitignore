@@ -1,0 +1,22 @@
+# Ambiente virtual
+bin/
+lib/
+lib64/
+include/
+pyenv.cfg
+
+# Arquivos de compilação Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Arquivos de log
+*.log
+
+# Pastas e arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
